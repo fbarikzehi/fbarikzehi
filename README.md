@@ -7,3 +7,5 @@ I am fereidoon barikzehi:
 - 💬 Ask me about programming **c#**,**javascript**,**python**,**go**,**rust**,**reactjs**,**vuejs**
 - 📫 How to reach me: [Telegram](https://t.me/fbarikzehi),[Email](mailto:f.barikzehi.dev@gmail.com)
 
+- Preparing github repos...
+

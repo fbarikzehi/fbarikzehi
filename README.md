@@ -1,11 +1,8 @@
 ### Hi there 👋
-I am fereidoon barikzehi:
+I am fereidoon barikzehi,a software engineer and developer.
 
-- 🔭 I’m currently working on TimeCassette a time management application.
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on open source projects to learn new skills
-- 💬 Ask me about programming **c#**,**javascript**,**python**,**go**,**rust**,**reactjs**,**vuejs**
-- 📫 How to reach me: [Telegram](https://t.me/fbarikzehi),[Email](mailto:f.barikzehi.dev@gmail.com)
+**c#**,**javascript**,**python**,**go**,**rust**,**reactjs**,**vuejs**,**Rust in progress...**
 
-- Preparing github repos...
+[Telegram](https://t.me/fbarikzehi),[Email](mailto:f.barikzehi.dev@gmail.com)
+
 

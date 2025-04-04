@@ -1,8 +1,26 @@
-### Hi there 👋
-I am fereidoon barikzehi,Software engineer and full-stack developer.
+### Hey there 👋 I'm Fereidoon Barikzehi
 
-**c#**,**javascript**,**go**,**vuejs**,**MSSQL**,**postgresql**,**mongoDb**,**redis**,**rust in progress...**,**software architecture**
+I'm a **Software Engineer** and **Full-Stack Developer** passionate about solving complex problems with clean code and scalable architecture.
 
-[Telegram](https://t.me/fbarikzehi),[Email](mailto:f.barikzehi.dev@gmail.com)
+🔧 **What I Do**  
+I build robust backends, elegant frontends, and scalable systems — from MVPs to enterprise-level software. I care deeply about architecture, code quality, and delivering meaningful digital experiences.
 
+💡 **Tech I Work With**
+- 🖥️ Languages: **C#**, **Go**, **JavaScript**, **Rust** (learning)
+- 🧠 Frameworks & Tools: **Vue.js**, **.NET**, **Gin**, **NestJS**
+- 💾 Databases: **PostgreSQL**, **MSSQL**, **MongoDB**, **Redis**
+- 📐 Software Design: **Microservices**, **Domain-Driven Design (DDD)**, **Event-Driven Architecture**, **Clean Architecture**
+
+🚀 **What I'm Building**
+- ⚙️ Scalable backend infrastructures
+- 🛠️ AI-driven tools
+- 🧠 Intelligent developer agents
+
+📬 **Let's Connect**
+- [Telegram](https://t.me/fbarikzehi)
+- [Email](mailto:f.barikzehi.dev@gmail.com)
+
+---
+
+> “Code is not just what we write — it's how we think, solve, and build.”
 

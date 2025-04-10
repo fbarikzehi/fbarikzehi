@@ -17,7 +17,7 @@ I build robust backends, elegant frontends, and scalable systems — from MVPs t
 - 🧠 Intelligent developer agents
 
 🧭 **Projects**
- - **[JCoordinator](https://github.com/jcoordinator) :Currently developing and leading the architecture** 
+ - **[JCoordinator](https://github.com/jcoordinator) : Currently developing and leading the architecture** 
  - **Build an AI IDE:Coming up next**
  
 📬 **Let's Connect**

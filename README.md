@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm <span style="color:#f46842;">Fereidoon Barikzehi</span></h1>
 
 <p align="center">
-  💻 Full-Stack .NET + Go Developer | 🧠 System Designer | 🚀 Tech Explorer  
+  💻 Software Engineer && Full-Stack Developer | 🧠 System Designer | 🚀 Tech Explorer  
 </p>
 
 <p align="center">

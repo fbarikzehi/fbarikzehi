@@ -1,30 +1,76 @@
-### Hey there 👋 I'm Fereidoon Barikzehi
+<h1 align="center">Hi there 👋 I'm <span style="color:#f46842;">Fereidoon Barikzehi</span></h1>
 
-I'm a **Software Engineer** and **Full-Stack Developer** passionate about solving complex problems with clean code and scalable architecture.
+<p align="center">
+  💻 Full-Stack .NET + Go Developer | 🧠 System Designer | 🚀 Tech Explorer  
+</p>
 
-🔧 **What I Do**  
-I build robust backends, elegant frontends, and scalable systems — from MVPs to enterprise-level software. I care deeply about architecture, code quality, and delivering meaningful digital experiences.
-
-💡 **Tech I Work With**
-- 🖥️ Languages: **C#**, **Go**, **JavaScript**, **Rust** (learning)
-- 🧠 Frameworks & Tools: **Vue.js**, **.NET**, **Gin**, **NestJS**
-- 💾 Databases: **PostgreSQL**, **MSSQL**, **MongoDB**, **Redis**
-- 📐 Software Design: **Microservices**, **Domain-Driven Design (DDD)**, **Event-Driven Architecture**, **Clean Architecture**
-
-🚀 **What I'm Building**
-- ⚙️ Scalable backend infrastructures
-- 🛠️ AI-driven tools
-- 🧠 Intelligent developer agents
-
-🧭 **Projects**
- - **[JCoordinator](https://github.com/jcoordinator) : Currently developing and leading the architecture** 
- - **Build an AI IDE:Coming up next**
- 
-📬 **Let's Connect**
-- [Telegram](https://t.me/fbarikzehi)
-- [Email](mailto:f.barikzehi.dev@gmail.com)
+<p align="center">
+  <a href="mailto:f.barikzehi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20Me%20a%20Line-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/fbarikzehi"><img src="https://img.shields.io/badge/Telegram-Chat%20with%20me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/fbarikzehi"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-> “Code is not just what we write — it's how we think, solve, and build.”
+## 🧠 About Me
+
+I'm **Fereidoon**, a passionate **Software Engineer** and **Full-Stack Developer** with over **10 years of experience** crafting scalable backend systems, sleek frontend interfaces, and robust cloud architectures.  
+
+I thrive at the intersection of performance, design, and real-world impact — from **microservices** to **AI-enhanced platforms**.
+
+I believe great code isn't just functional — it's **intuitive**, **testable**, and **built for humans**.
+
+---
+
+## ⚙️ Tech Stack at a Glance
+
+| 🔧 Domain         | 🛠️ Technologies & Tools                                                                 |
+|------------------|-------------------------------------------------------------------------------------------|
+| 💻 Languages      | C#, Go, JavaScript, TypeScript, Rust (learning)                                           |
+| ⚙️ Frameworks     | .NET, Vue.js, React, NestJS, Gin (Go), SignalR                                            |
+| 💾 Databases      | PostgreSQL, MSSQL, Redis, MongoDB                                                         |
+| 🏗 Architecture   | Microservices, Domain-Driven Design, Event-Driven, Clean Architecture                     |
+| ☁️ Cloud & DevOps | Docker, Kubernetes, Azure, AWS, GitHub Actions, Jenkins                                   |
+| 📡 Messaging      | Kafka, RabbitMQ                                                                           |
+
+---
+
+## 🚀 What I’m Building
+
+🔭 Currently focusing on:
+- 🔌 **Modular AI-integrated tools** for smarter dev workflows  
+- 🧠 **LLM-driven assistants** in real-world microservice environments  
+- 📈 Designing **high-throughput distributed systems**  
+- ⚡ Exploring **Rust** for future-proof system-level capabilities  
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 [**JCoordinator**](https://github.com/jcoordinator) 
+- 🔹 **AI IDE** 
+- 🔹 **AI Messenger & Social** 
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fbarikzehi&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbarikzehi&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect!
+
+I’m always open to **collaborations**, **open-source contributions**, or a chat about anything dev-related. Whether you’re building with Go, experimenting with LLMs, or scaling microservices — I’d love to hear from you!
+
+📬 Feel free to reach out — even if it’s just to say hi. 😊
+
+---
+
+> 💬 *“Great software isn’t just built — it’s thoughtfully crafted, iteratively improved, and powered by curious minds.”*
+
+---
 

@@ -53,15 +53,6 @@ I believe great code isn't just functional — it's **intuitive**, **testable**,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fbarikzehi&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbarikzehi&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
 ## 🤝 Let’s Connect!
 
 I’m always open to **collaborations**, **open-source contributions**, or a chat about anything dev-related. Whether you’re building with Go, experimenting with LLMs, or scaling microservices — I’d love to hear from you!

@@ -38,10 +38,9 @@ I believe great code isn't just functional — it's **intuitive**, **testable**,
 ## 🚀 What I’m Building
 
 🔭 Currently focusing on:
-- 🔌 **Modular AI-integrated tools** for smarter dev workflows  
-- 🧠 **LLM-driven assistants** in real-world microservice environments  
-- 📈 Designing **high-throughput distributed systems**  
-- ⚡ Exploring **Rust** for future-proof system-level capabilities  
+- 🔌**Vibe Coding* building tools for smarter and integrated development 
+- 📈 Designing **high-throughput management systems**  
+- ⚡ Exploring **Rust and AI** for future-proof capabilities  
 
 ---
 
@@ -49,13 +48,13 @@ I believe great code isn't just functional — it's **intuitive**, **testable**,
 - 🔹 [**Dide2 PMIS**](https://github.com/dide2)
 - 🔹 [**JCoordinator**](https://github.com/jcoordinator) 
 - 🔹 **AI IDE** 
-- 🔹 **AI Messenger & Social** 
+- 🔹 **AI Messenger & Social Network** 
 
 ---
 
 ## 🤝 Let’s Connect!
 
-I’m always open to **collaborations**, **open-source contributions**, or a chat about anything dev-related. Whether you’re building with Go, experimenting with LLMs, or scaling microservices — I’d love to hear from you!
+I’m always open to **collaborations**, **open-source contributions**, or a chat about anything related to software and technologies. Whether you’re building software, experimenting AI, or a science and technology enthusiasm like me— I’d love to hear from you for connection or contribution.
 
 📬 Feel free to reach out — even if it’s just to say hi. 😊
 

@@ -38,7 +38,7 @@ I believe great code isn't just functional — it's **intuitive**, **testable**,
 ## 🚀 What I’m Building
 
 🔭 Currently focusing on:
-- 🔌**Vibe Coding* building tools for smarter and integrated development 
+- 🔌**Vibe Coding** building tools for smarter and integrated development 
 - 📈 Designing **high-throughput management systems**  
 - ⚡ Exploring **Rust and AI** for future-proof capabilities  
 

@@ -46,7 +46,7 @@ I believe great code isn't just functional — it's **intuitive**, **testable**,
 ---
 
 ## 📌 Featured Projects
-
+- 🔹 [**Dide2 PMIS**](https://github.com/dide2)
 - 🔹 [**JCoordinator**](https://github.com/jcoordinator) 
 - 🔹 **AI IDE** 
 - 🔹 **AI Messenger & Social** 
